@@ -6,11 +6,9 @@ import styles from './App.module.css';
 function App() { 
   return (
     <div className="App">
-      {/* <Hello></Hello> */} 
-      {/* 중간에 들어갈 내용이 없을 때는 self close 해 주는 게 깔끔하다. */}
+      <Hello />
       <Hello /> 
-      {/* <div className='box'>App</div> */}
-
+      <Hello />
     </div>
   );
 }
