@@ -1,17 +1,7 @@
 import World from "./World";
 import styles from "./Hello.module.css";
 
-// const Hello = function(){
-//     <p>Hello</p>;
-// }
-
-// export default Hello;
-
-// const Hello = () => {
-//     <p>Hello</p>;
-// }
-
-// export default Hello;
+// Study: event handling
 
 function showName(){
     console.log("Mike");
